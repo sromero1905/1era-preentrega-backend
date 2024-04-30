@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Camiseta",
+      "price": 15.99,
+      "category": "Ropa"
+    },
+    {
+      "id": 2,
+      "name": "Zapatillas deportivas",
+      "price": 49.99,
+      "category": "Calzado"
+    },
+    {
+      "id": 3,
+      "name": "Teléfono móvil",
+      "price": 299.99,
+      "category": "Electrónica"
+    }
+  ]
